@@ -12,13 +12,6 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-/**
- * User  : noep
- * Datetime  : 2018. 10. 3. PM 12:26
- * Email : noep@naver.com
- * Desc  :
- */
-
 @Slf4j
 @RequiredArgsConstructor
 @Configuration

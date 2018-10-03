@@ -10,12 +10,6 @@ import org.springframework.batch.repeat.RepeatStatus;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-/**
- * User  : noep
- * Datetime  : 2018. 10. 3. PM 1:11
- * Email : noep@naver.com
- * Desc  :
- */
 @Slf4j
 @Configuration
 @RequiredArgsConstructor
